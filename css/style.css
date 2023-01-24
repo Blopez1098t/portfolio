@@ -10,7 +10,7 @@ body{
 .navbar li :hover{
     text-decoration: underline;
 }
-.navbar li:active {
+.navbar li :active {
  color: #DDA15E;
 }
 .navbar ul{
@@ -29,6 +29,12 @@ body{
     padding: 30px 25px;
 }
 .Socials {
-    padding-left: 10in;
+    padding-left: 12in;
     margin-right: 0;
+}
+h1, h3{
+    background-color: #dda15e;
+    margin: 0in;
+    margin-right: 5in;
+    border-radius: 1mm;
 }
